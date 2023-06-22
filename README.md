@@ -7,5 +7,5 @@ This project was built using RSpec, a Ruby testing framework.
 
 The tricky part of this project was detecting diagonals.
 
-Basically, solution was to use Ruby's `#rotate` method on each row to line up the diagonals vertically, and then `#transpose` the result.
+Basically, my solution was to use Ruby's `#rotate` method on each row to line up the diagonals vertically, and then `#transpose` the result.
 
